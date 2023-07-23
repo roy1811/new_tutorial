@@ -13,10 +13,10 @@ const Blog = () => {
           <Article imageurl={blog01} date={'20/jul/2023'} title={'GPT-3 and Open  AI is the future. Let us exlore how it is?'}/>
         </div>
         <div className='gpt3__blog-container_groupB'>
-          <Article />
-          <Article />
-          <Article />
-          <Article />
+          <Article imageurl={blog02} date={'20/jul/2023'} title={'GPT-3 and Open  AI is the future. Let us exlore how it is?'}/>
+          <Article imageurl={blog03} date={'20/jul/2023'} title={'GPT-3 and Open  AI is the future. Let us exlore how it is?'}/>
+          <Article imageurl={blog04} date={'20/jul/2023'} title={'GPT-3 and Open  AI is the future. Let us exlore how it is?'}/>
+          <Article imageurl={blog05} date={'20/jul/2023'} title={'GPT-3 and Open  AI is the future. Let us exlore how it is?'}/>
         </div>
         </div>
       
